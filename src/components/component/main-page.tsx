@@ -45,12 +45,15 @@ export function MainPage() {
                   Découvrez notre gamme complète de produits de sécurité pour protéger votre entreprise.
                 </p>
                 <div className="mt-6 flex gap-4">
+                  <Link href="#product">
                   <Button variant="default" size="sm">
                     Nos produits
-                  </Button>
+                  </Button></Link>
+                  <Link href="#contact">
                   <Button variant="outline" size="sm">
                     Contactez-nous
                   </Button>
+                  </Link>
                 </div>
               </div>
               <img
