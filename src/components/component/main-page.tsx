@@ -261,7 +261,7 @@ export function MainPage() {
                   </div>
                   <div className="flex items-center gap-2">
                     <PhoneIcon className="h-5 w-5" />
-                    <span>01 23 45 67 89</span>
+                    <span>04 84 89 63 47</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <MailIcon className="h-5 w-5" />
